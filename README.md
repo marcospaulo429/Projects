@@ -6,7 +6,7 @@ Explore os diretórios para descobrir trabalhos de disciplinas específicas, pro
 
 # Assistente Virtual Iris
 
-![Iris Logo](https://github.com/marcospaulo429/Projetos-UFG/blob/main/Iris%20-%20Assistente%20Virtual%20Inteligente/iris_carregamento.png)
+![Iris Logo]([https://github.com/marcospaulo429/Projetos-UFG/blob/main/Iris%20-%20Assistente%20Virtual%20Inteligente/iris_carregamento.png](https://github.com/marcospaulo429/Projetos-UFG/blob/main/Iris%20-%20Assistente%20Virtual%20Inteligente/slogan.PNG))    
 
 Iris é a incrível criação com meus colegas Pedro e Fred - uma assistente virtual multifuncional projetada para tornar a interação com a tecnologia mais fluida e agradável. Ela está aqui para ajudar, informar e simplificar tarefas diárias.
 
