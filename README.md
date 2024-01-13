@@ -6,7 +6,7 @@ Explore the directories to discover discipline-specific work, interdisciplinary 
 
 # Iris Virtual Assistant
 
-![Iris Logo](https://github.com/marcospaulo429/Projetos-UFG/blob/main/Iris%20-%20Assistência%20Virtual%20Inteligente/iris_ Carregamento.png)
+![Iris Logo](https://github.com/marcospaulo429/Projetos-UFG/blob/main/Iris%20-%20Assistente%20Virtual%20Inteligente/iris_carregamento.png)
 
 Iris is the incredible creation with my colleagues Pedro and Fred - a multifunctional virtual assistant designed to make interacting with technology more fluid and enjoyable. She is here to help, inform and simplify daily tasks.
 
