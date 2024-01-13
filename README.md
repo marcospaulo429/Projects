@@ -1,15 +1,15 @@
-## Bem-vindo ao Repositório de Trabalhos Acadêmicos da UFG
+## Welcome to the UFG Academic Works Repository
 
-Este é o meu repositório pessoal que reúne uma ampla coleção de trabalhos acadêmicos realizados ao longo da minha jornada na Universidade Federal de Goiás (UFG). Desde os meus primeiros passos na universidade até os projetos mais avançados, este repositório reflete a minha dedicação à aprendizagem e à busca constante pela excelência acadêmica. 
+This is my personal repository that brings together a wide collection of academic work carried out throughout my journey at the Federal University of Goiás (UFG). From my first steps at university to the most advanced projects, this repository reflects my dedication to learning and the constant search for academic excellence.
 
-Explore os diretórios para descobrir trabalhos de disciplinas específicas, projetos interdisciplinares e pesquisas das quais participei. Este repositório não apenas documenta a minha evolução como estudante, mas também reflete a minha paixão por aprender e a determinação em enfrentar os desafios acadêmicos.
+Explore the directories to discover discipline-specific work, interdisciplinary projects, and research I've participated in. This repository not only documents my evolution as a student, but also reflects my passion for learning and determination to face academic challenges.
 
-# Assistente Virtual Iris
+# Iris Virtual Assistant
 
-![Iris Logo](https://github.com/marcospaulo429/Projetos-UFG/blob/main/Iris%20-%20Assistente%20Virtual%20Inteligente/iris_carregamento.png)
+![Iris Logo](https://github.com/marcospaulo429/Projetos-UFG/blob/main/Iris%20-%20Assistência%20Virtual%20Inteligente/iris_ Carregamento.png)
 
-Iris é a incrível criação com meus colegas Pedro e Fred - uma assistente virtual multifuncional projetada para tornar a interação com a tecnologia mais fluida e agradável. Ela está aqui para ajudar, informar e simplificar tarefas diárias.
+Iris is the incredible creation with my colleagues Pedro and Fred - a multifunctional virtual assistant designed to make interacting with technology more fluid and enjoyable. She is here to help, inform and simplify daily tasks.
 
-Este repositório é um espaço em constante evolução, onde você encontrará o código-fonte, documentação e atualizações sobre o desenvolvimento contínuo da Iris. Junte-se a mim nessa jornada enquanto aprimoramos e expandimos as capacidades dessa assistente virtual incrível.
+This repository is an ever-evolving space where you will find source code, documentation, and updates on the ongoing development of Iris. Join me on this journey as we enhance and expand the capabilities of this incredible virtual assistant.
 
-Dê uma olhada nos diretórios e recursos disponíveis, e sinta-se à vontade para contribuir, fazer sugestões ou reportar problemas. Vamos construir o futuro da interação humano-computador juntos!
+Take a look at the directories and resources available, and feel free to contribute, make suggestions or report problems. Let's build the future of human-computer interaction together!
