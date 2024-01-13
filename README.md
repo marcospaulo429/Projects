@@ -13,3 +13,7 @@ Iris is the incredible creation with my colleagues Pedro and Fred - a multifunct
 This repository is an ever-evolving space where you will find source code, documentation, and updates on the ongoing development of Iris. Join me on this journey as we enhance and expand the capabilities of this incredible virtual assistant.
 
 Take a look at the directories and resources available, and feel free to contribute, make suggestions or report problems. Let's build the future of human-computer interaction together!
+
+#Supermarket C platform
+
+This platform was made by me with my colleagues Pedro Cézar and Fernando Bezerra - a platform for administration, registration and sale of products. Where the seller registers the products and payment methods and at the time of sale the buyer enters the purchased products, with the purchase invoice as the final output
