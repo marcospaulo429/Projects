@@ -14,6 +14,6 @@ This repository is an ever-evolving space where you will find source code, docum
 
 Take a look at the directories and resources available, and feel free to contribute, make suggestions or report problems. Let's build the future of human-computer interaction together!
 
-#Supermarket C platform
+# Supermarket C platform
 
 This platform was made by me with my colleagues Pedro Cézar and Fernando Bezerra - a platform for administration, registration and sale of products. Where the seller registers the products and payment methods and at the time of sale the buyer enters the purchased products, with the purchase invoice as the final output
